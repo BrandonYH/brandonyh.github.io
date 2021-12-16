@@ -1,0 +1,14 @@
+
+/* banner contents container */
+.banner-contents-container {
+    position: absolute;
+    top: 220px;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+/* homepage section entry */
+.homepage-entry-padding {
+    margin-left: 100px;
+    margin-right: 100px;
+}
