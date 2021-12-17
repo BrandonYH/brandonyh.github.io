@@ -1,13 +1,19 @@
 
-/* banner contents container */
-.banner-contents-container {
+/* banner image */
+.banner-image-fill {
+    object-fit: cover;
+    width: 100%;
+    height: 330px;
+}
+
+/* banner text content */
+.banner-contents {
     position: absolute;
     top: 220px;
     left: 50%;
     transform: translate(-50%,-50%);
 }
 
-/* homepage section entry */
 .homepage-entry-padding {
     margin-left: 100px;
     margin-right: 100px;
