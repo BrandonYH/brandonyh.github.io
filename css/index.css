@@ -28,16 +28,16 @@
 
 /* padding for page subsections */
 .subcontent-section-padding {
-    padding-left: 2vw;
-    padding-right: 2vw;
+    padding-left: 3vw;
+    padding-right: 3vw;
     padding-top: 16px;
     padding-bottom: 16px;
 }
 
 /* horizontal padding for page subsections */
 .subcontent-section-h-padding {
-    padding-left: 2vw;
-    padding-right: 2vw;
+    padding-left: 3vw;
+    padding-right: 3vw;
 }
 
 /* university name header text style */
